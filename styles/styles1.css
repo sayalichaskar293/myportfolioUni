@@ -41,6 +41,7 @@ ul {
     color: #dcddde;
 }
 
+
 .frontpage {
     background-color: #0B0c10;
     background-image: url(/images/mountain.jpg);
@@ -48,31 +49,6 @@ ul {
     color: #66FCF1;
     height: 750px;
 }
-
-.nav-link {
-    color: #66FCF1;
-}
-
-.nav-link:hover {
-    font-size: 17px;
-    color: #66FCF1;
-    text-decoration: underline;
-    font-weight: 800;
-}
-
-.navigation {
-    padding-top: 40px;
-    padding-right: 25px;
-
-}
-
-.navigation {
-   
-    color: #66FCF1;
-}
-
-
-
 
 .title {
     text-align: center;
